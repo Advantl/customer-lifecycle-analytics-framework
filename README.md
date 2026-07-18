@@ -1,6 +1,7 @@
-# Customer Retention Decision Framework for Pharmacy Retail
+## «Customer Retention Decision Framework for Pharmacy Retail»
+Revenue Dynamics, Churn Modeling and Retention Investment Optimization.
 
-# Contents
+## Contents
 
 - [1. Executive Summary](#1-executive-summary)
 - [2. Business Background](#2-business-background)
