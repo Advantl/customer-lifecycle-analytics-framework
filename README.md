@@ -1485,7 +1485,7 @@ Customer Health Monitoring
 
 ![Aggregated Lifecycle Transition Matrix](visualizations/users_sankey_diagram.PNG)
 
-[Открыть интерактивный график](https://Advantl.github.io/customer-lifecycle-analytics-framework/customer_lifecycle_transition_flow.html)
+[Открыть интерактивный график](https://advantl.github.io/customer-lifecycle-analytics-framework/customer_lifecycle_transition_flow.html)
 
 #
 ### Ключевые результаты
