@@ -1602,7 +1602,8 @@ Customer Health Monitoring
 
 ![Revenue Decomposition Waterfall](visualizations/revenue_decomposition.PNG)
 
-Interactive version: [Open Plotly chart](visualizations/revenue_decomposition.html)
+[Открыть интерактивный график](https://advantl.github.io/customer-lifecycle-analytics-framework/revenue_decomposition_waterfall.html)
+
 #
 ### Ключевые результаты
 
