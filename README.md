@@ -1415,6 +1415,8 @@ Customer Health Monitoring
 
 ![Evolution of Lifecycle Transition Matrices](visualizations/transition_matrices_collage.png)
 
+[Открыть интерактивный график](https://Advantl.github.io/customer-lifecycle-analytics-framework/customer_lifecycle_transition_flow.html)
+
 #### *Figure 8. Отток клиентов возникает в результате прогрессирующей деградации жизненного цикла.*
 *Агрегированная матрица переходов между lifecycle-состояниями, обобщающая перемещения клиентов между этапами жизненного цикла за все периоды наблюдения.*
 ![Aggregated Lifecycle Transition Matrix](visualizations/aggregated_transition_matrix.png)
